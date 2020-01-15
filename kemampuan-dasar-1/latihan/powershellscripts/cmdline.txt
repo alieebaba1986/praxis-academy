@@ -13,6 +13,20 @@
 13. shutdown /s /t 0 (shutdown komputer)
 14. shutdown /r /t 0 (restart komputer)
 15. ipconfig (Perintah ini untuk melihat alamat IP komputer anda)
+Windows IP Configuration
+Wireless LAN adapter Local Area Connection* 9:
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+Wireless LAN adapter WiFi:
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::bc03:ffb9:f80:3858%21
+   IPv4 Address. . . . . . . . . . . : 192.168.88.159
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::1%21
+                                       192.168.88.1
+Ethernet adapter Bluetooth Network Connection:
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
 16. CALL (Memanggil sebuah program batch dari program batch yang lain)
 17. CD / CHDIR (Menampilkan nama atau mengubah direktori sekarang.)
 18. CHCP (Menampilkan atau mengubah nomor active code page.)
